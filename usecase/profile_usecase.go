@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/amitshekhariitbhu/go-backend-clean-architecture/domain"
+	"go_be_clean_architecture/domain"
 )
 
 type profileUsecase struct {

@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	mongo "github.com/amitshekhariitbhu/go-backend-clean-architecture/mongo"
+	mongo "go_be_clean_architecture/mongo"
 	mock "github.com/stretchr/testify/mock"
 )
 

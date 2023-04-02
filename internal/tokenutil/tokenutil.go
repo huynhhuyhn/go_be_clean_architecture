@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/amitshekhariitbhu/go-backend-clean-architecture/domain"
+	"go_be_clean_architecture/domain"
+
 	jwt "github.com/golang-jwt/jwt/v4"
 )
 
